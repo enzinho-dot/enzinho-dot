@@ -1,16 +1,17 @@
-## Hi there 👋
+## oiii eu sou enzo
+🎓 Estudante 
+📍 Fortaleza, Ceará - Brasil
 
-<!--
-**enzinho-dot/enzinho-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 Sobre mim
+Atualmente divido minha vida entre:
+📚 estudo
+💻 criar projetos aleatórios
+☕ sobreviver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curto bastante:
+ideias
+música
+programação
+jogos
