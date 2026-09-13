@@ -10,6 +10,7 @@ Atualmente divido minha vida entre:
 - 💻 criar projetos aleatórios
 - ☕ sobreviver
 - academia  
+
 Curto bastante:
 - ideias
 - música
