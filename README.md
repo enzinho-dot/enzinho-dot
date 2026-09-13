@@ -9,7 +9,7 @@ Atualmente divido minha vida entre:
 - 📚 estudo
 - 💻 criar projetos aleatórios
 - ☕ sobreviver
-
+- academia  
 Curto bastante:
 - ideias
 - música
